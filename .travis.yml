@@ -1,7 +1,0 @@
----
-addons:
-  apt:
-    packages:
-      - aspell
-      - aspell-en
-script: make test
