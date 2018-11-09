@@ -1,4 +1,4 @@
-# The Contribute Public License
+# The Contribution Public License
 
 CPL is a public `LICENSE` for open software that requires users who make changes to your software to share their changes back with the community.
 
