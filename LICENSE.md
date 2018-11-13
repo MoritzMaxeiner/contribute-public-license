@@ -6,7 +6,7 @@ The Contribution Public License (Draft)
 ##### Source Notice: *Location of source code*
 
 You are permitted to copy and distribute verbatim copies of this
-license document.
+license.
 
 This license lets you use and distribute this software for free, as
 long as you meet all of the following conditions:
