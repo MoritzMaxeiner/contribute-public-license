@@ -1,9 +1,9 @@
 The Contribution Public License (Draft)
 =======================================
 
-##### Copyright Notice: {{{name}}}
+##### Copyright Notice: © *Year and Copyright Holder*
 
-##### Source Notice: {{{source}}}
+##### Source Notice: *Location of source code*
 
 You are permitted to copy and distribute verbatim copies of this
 license document.
