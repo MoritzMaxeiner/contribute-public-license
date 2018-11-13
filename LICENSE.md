@@ -8,7 +8,7 @@ The Contribution Public License (Draft)
 You are permitted to copy and distribute verbatim copies of this
 license document.
 
-This license lets you use and share this software for free, as
+This license lets you use and distribute this software for free, as
 long as you meet all of the following conditions:
 
 1. Contribute all source code for any and all changes
