@@ -5,9 +5,6 @@ The Contribution Public License (Draft)
 
 ##### Source Notice: *Location of source code*
 
-You are permitted to copy and distribute verbatim copies of this
-license.
-
 This license lets you use and distribute this software for free, as
 long as you meet all of the following conditions:
 
@@ -27,3 +24,5 @@ for as long as you use this software.
 >There is no warranty for this software, to the extent permitted by applicable law. Except when otherwise stated in writing the copyright holders and/or other parties provide this software "as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of this sofware is with you. Should this software prove defective, you assume the cost of all necessary servicing, repair or correction.
 
 >In no event, unless required by applicable law or agreed to in writing, will any copyright holder, or any other party who makes changes to and/or distributes this software as permitted above, be liable to you for damages, including any general, special, incidental, or consequential damages arising out of the use or inability to use this software (including but not limited to loss of data or data being rendered inaccurate or losses sustained by you or third parties or a failure of this software to operate with any other software, hardware, or wetware), even if such holder or other party has been advised of the possibility of such damages.
+
+__You are permitted to copy and distribute verbatim copies of this license.__
