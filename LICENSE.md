@@ -25,5 +25,5 @@ for as long as you use this software.
 
 >In no event, unless required by applicable law or agreed to in writing, will any copyright holder, or any other party who makes changes to and/or distributes this software as permitted above, be liable to you for damages, including any general, special, incidental, or consequential damages arising out of the use or inability to use this software (including but not limited to loss of data or data being rendered inaccurate or losses sustained by you or third parties or a failure of this software to operate with any other software, hardware, or wetware), even if such holder or other party has been advised of the possibility of such damages.
 
->You are permitted to copy and distribute verbatim copies of this
+>Everyone is permitted to copy and distribute verbatim copies of this
 license.
