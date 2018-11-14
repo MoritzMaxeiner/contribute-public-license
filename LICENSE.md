@@ -1,9 +1,9 @@
 The Contribution Public License (Draft)
 =======================================
 
-##### Copyright Notice: © *Year and Copyright Holder*
+**Copyright Notice:** © `Year and Copyright Holder`
 
-##### Source Notice: *Location of source code*
+**Source Notice:** `Location of source code`
 
 You may use and distribute this software in any form, with or
 without changes, as long as you meet all of the following conditions:
