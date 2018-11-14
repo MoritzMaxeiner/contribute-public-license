@@ -1,9 +1,9 @@
 The Contribution Public License (Draft)
 =======================================
 
-##### Copyright Notice: © *Year and Copyright Holder*
+__Copyright Notice:__ ©`Year and Copyright Holder`
 
-##### Source Notice: *Location of source code*
+__Source Notice:__ `Location of source code`
 
 This license lets you use and distribute this software for free, as
 long as you meet all of the following conditions:
@@ -25,4 +25,4 @@ for as long as you use this software.
 
 >In no event, unless required by applicable law or agreed to in writing, will any copyright holder, or any other party who makes changes to and/or distributes this software as permitted above, be liable to you for damages, including any general, special, incidental, or consequential damages arising out of the use or inability to use this software (including but not limited to loss of data or data being rendered inaccurate or losses sustained by you or third parties or a failure of this software to operate with any other software, hardware, or wetware), even if such holder or other party has been advised of the possibility of such damages.
 
-__You are permitted to copy and distribute verbatim copies of this license.__
+__Everyone is permitted to copy and distribute verbatim copies of this license.__
