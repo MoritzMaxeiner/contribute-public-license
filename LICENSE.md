@@ -12,8 +12,8 @@ without changes, as long as you meet all of the following conditions:
    you make to this software (as described below).
 
 2. Ensure everyone who receives a copy of this software from you,
-   in source code or any other form, also receives the text of this
-   license and the copyright and source notices above.
+   in any form, also receives the text of this license and the
+   copyright and source notices above.
 
 To contribute source code: License it under this license to
 the public, publish it through a freely accessible
