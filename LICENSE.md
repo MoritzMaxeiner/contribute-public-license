@@ -5,8 +5,8 @@ The Contribution Public License (Draft)
 
 ##### Source Notice: *Location of source code*
 
-This license lets you use and distribute this software for free, as
-long as you meet all of the following conditions:
+You may use and distribute this software in any form, with or
+without changes, as long as you meet all of the following conditions:
 
 1. Contribute all source code for any and all changes
    you make to this software (as described below).
