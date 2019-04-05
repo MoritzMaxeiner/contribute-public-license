@@ -9,7 +9,8 @@ You may use and distribute this software in any form, with or
 without changes, as long as you meet all of the following conditions:
 
 1. Contribute all source code for any and all changes
-   you make to this software (as described below).
+   you make to this software (as described below) within
+   one month.
 
 2. Ensure everyone who receives a copy of this software from you,
    in any form, also receives the text of this license and the
