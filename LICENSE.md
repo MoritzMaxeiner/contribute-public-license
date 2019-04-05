@@ -19,7 +19,7 @@ To contribute source code: License it under this license to
 the public, publish it through a freely accessible
 distribution system used for similar source code, and ensure
 reasonable availability of it via one such publication for as long
-as you use this software.
+as you use or distribute this software.
 
 >There is no warranty for this software, to the extent permitted by applicable law. Except when otherwise stated in writing the copyright holders and/or other parties provide this software "as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of this sofware is with you. Should this software prove defective, you assume the cost of all necessary servicing, repair or correction.
 
