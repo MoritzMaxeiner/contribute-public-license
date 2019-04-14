@@ -18,7 +18,7 @@ without changes, as long as you meet all of the following conditions:
 
 To contribute source code: License it under this license to
 the public, publish it through a freely accessible
-distribution system used for similar source code, and ensure
+distribution system commonly used for similar source code, and ensure
 reasonable availability of it via one such publication for as long
 as you use or distribute this software.
 
