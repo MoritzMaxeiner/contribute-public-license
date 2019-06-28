@@ -8,8 +8,7 @@ The Contribution Public License (Draft)
 You may use and distribute this software in any form, with or
 without changes, as long as you meet all of the following conditions:
 
-1. Contribute each change you make to this software (as described below)
-   within one month.
+1. Contribute each change you make to this software (as described below).
 
 2. Ensure everyone who receives a copy of this software from you,
    in any form, also receives the text of this license and the
@@ -20,6 +19,9 @@ the public, publish it through a freely accessible
 distribution system commonly used for similar changes, and ensure
 reasonable availability of it via one such publication for as long
 as you use or distribute this software with it.
+
+You are excused for unknowingly violating the above conditions
+if you comply with them within 30 days of learning you violated them.
 
 >There is no warranty for this software, to the extent permitted by applicable law. Except when otherwise stated in writing the copyright holders and/or other parties provide this software "as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of this sofware is with you. Should this software prove defective, you assume the cost of all necessary servicing, repair or correction.
 
