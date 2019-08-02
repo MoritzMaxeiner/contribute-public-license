@@ -1,4 +1,4 @@
-* The Contribution Public License (Draft)
+* Contribution Public License 1.0
 
 *Copyright Notice:* © =Year and Copyright Holder=
 
