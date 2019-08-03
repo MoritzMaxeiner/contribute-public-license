@@ -19,9 +19,6 @@ Contribution Public License 1.0 (Draft)
      publication for as long as you use or distribute this software with
      it.
 
-  You are excused for unknowingly violating the above conditions if you
-  comply with them within 30 days of learning you violated them.
-
         There is no warranty for this software, to the extent
         permitted by applicable law. Except when otherwise stated
         in writing the copyright holders and/or other parties
