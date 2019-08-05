@@ -27,15 +27,16 @@ The Contribution Public License 1.0 (Draft)
      of a larger application.
 
         You are granted a perpetual, universal, non-exclusive,
-        no-charge, royalty-free, irrevocable (except by not
-        fulfilling the above obligations) copyright license to use
-        and distribute this software without restriction.
+        no-charge, royalty-free, irrevocable (except in the case
+        of breaching the above obligations) copyright license
+        without scope limitations.
 
         You are granted a perpetual, universal, non-exclusive,
-        no-charge, royalty-free, irrevocable (except by not
-        fulfilling the above obligations) patent license for all
-        patent claims licensable by any copyright holder your use
-        or distribution of this software would otherwise infringe.
+        no-charge, royalty-free, irrevocable (except in the case
+        of breaching the above obligations) patent license for all
+        patent claims covering contributions as embodied in this
+        software and licensable by respective contributors without
+        other scope limitations.
 
         There is no warranty for this software, to the extent
         permitted by applicable law. Except when otherwise stated
