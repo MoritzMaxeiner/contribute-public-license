@@ -1,16 +1,19 @@
-Contribution Public License 1.0 (Draft)
-═══════════════════════════════════════
+The Contribution Public License 1.0 (Draft)
+═══════════════════════════════════════════
 
-  *Copyright Notice:* © `Year and Copyright Holder'
+  *Contributor Notice:* `Licensor Name'
 
   *Source Notice:* `Primary location of source code'
 
-  You may use and distribute this software without restriction, as long
-  as you fulfill all of the following obligations:
+  You may do everything with this software that would otherwise infringe
+  either any contributors' copyright in it, any patent claim any
+  contributor can license that covers this software as of that
+  contributor's latest contribution, or both, in exchange for your
+  promise to fulfill all of the following obligations:
 
   1. Ensure everyone who receives a copy of this software from you, in
-     any form, also receives the text of this license and the copyright
-     and source notices above.
+     any form, also receives the text of this license and the
+     contributor and source notices above.
 
   2. License each change you make to this software under this license,
      publish it in its original form through a freely accessible
