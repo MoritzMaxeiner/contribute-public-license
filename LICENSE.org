@@ -21,6 +21,10 @@ as long as you fulfill all of the following obligations:
    claim they would infringe by using or distributing this software.
 
 #+begin_quote
+You are granted a perpetual, universal, non-exclusive, no-charge, royalty-free, irrevocable (except by not fulfilling the above obligations) copyright license to use and distribute this software without restriction.
+#+end_quote
+
+#+begin_quote
 You are granted a perpetual, universal, non-exclusive, no-charge, royalty-free, irrevocable (except by not fulfilling the above obligations) patent license for all patent claims licensable by any copyright holder your use or distribution of this software would otherwise infringe.
 #+end_quote
 
