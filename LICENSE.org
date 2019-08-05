@@ -1,6 +1,6 @@
 * The Contribution Public License 1.0 (Draft)
 
-*Copyright Notice:* © =Year and Copyright Holder=
+*Contributor Notice:* =Licensor Name=
 
 *Source Notice:* =Primary location of source code=
 
@@ -9,7 +9,7 @@ as long as you fulfill all of the following obligations:
 
 1. Ensure everyone who receives a copy of this software from you,
    in any form, also receives the text of this license and the
-   copyright and source notices above.
+   contributor and source notices above.
 
 2. License each change you make to this software under this license,
    publish it in its original form through a freely accessible
