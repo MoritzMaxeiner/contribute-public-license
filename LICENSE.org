@@ -17,6 +17,13 @@ as long as you fulfill all of the following obligations:
    reasonable availability of it via one such publication for as long
    as you use or distribute this software with it, but no less than 30 days.
 
+3. Do not make any legal claim against anyone for infringing any patent
+   claim they would infringe by using or distributing this software.
+
+#+begin_quote
+You are granted a perpetual, universal, non-exclusive, no-charge, royalty-free, irrevocable (except by not fulfilling the above obligations) patent license for all patent claims licensable by any copyright holder your use or distribution of this software would otherwise infringe.
+#+end_quote
+
 #+begin_quote
 There is no warranty for this software, to the extent permitted by applicable law. Except when otherwise stated in writing the copyright holders and/or other parties provide this software "as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of this sofware is with you. Should this software prove defective, you assume the cost of all necessary servicing, repair or correction.
 #+end_quote
