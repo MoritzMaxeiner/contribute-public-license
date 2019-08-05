@@ -26,11 +26,11 @@ promise to fulfill all of the following obligations:
    part of a larger application.
 
 #+begin_quote
-You are granted a perpetual, universal, non-exclusive, no-charge, royalty-free, irrevocable (except by not fulfilling the above obligations) copyright license to use and distribute this software without restriction.
+You are granted a perpetual, universal, non-exclusive, no-charge, royalty-free, irrevocable (except in the case of breaching the above obligations) copyright license without scope limitations.
 #+end_quote
 
 #+begin_quote
-You are granted a perpetual, universal, non-exclusive, no-charge, royalty-free, irrevocable (except by not fulfilling the above obligations) patent license for all patent claims licensable by any copyright holder your use or distribution of this software would otherwise infringe.
+You are granted a perpetual, universal, non-exclusive, no-charge, royalty-free, irrevocable (except in the case of breaching the above obligations) patent license for all patent claims covering contributions as embodied in this software and licensable by respective contributors without other scope limitations.
 #+end_quote
 
 #+begin_quote
