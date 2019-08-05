@@ -18,7 +18,7 @@ promise to fulfill all of the following obligations:
    publish it in its original form through a freely accessible
    distribution system commonly used for similar changes, and ensure
    reasonable availability of it via one such publication for as long
-   as you use or distribute this software with it, but no less than 30 days.
+   as you use the hereby granted rights, but no less than 30 days.
 
 3. Do not make any legal claim against anyone for infringing any
    patent claim they would infringe by using this software alone,
