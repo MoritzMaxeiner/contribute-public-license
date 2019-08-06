@@ -1,6 +1,6 @@
 						 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 						  THE CONTRIBUTION PUBLIC LICENSE
-							Version 1 (Draft), 2019-08-06
+							Version 1 (Draft), 2019-08-07
 						 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
@@ -8,12 +8,12 @@
 
 *Source Notice:* `Primary location of source code'
 
+Everyone is permitted to copy and distribute verbatim copies of this
+license.
+
 
 1. Grants
 ═════════
-
-  Everyone is permitted to copy and distribute verbatim copies of this
-  license.
 
   In exchange for your promise to fulfill all of the obligations listed
   in section 2 you may do everything with this software that would
@@ -45,7 +45,8 @@
      publish it in its original form through a freely accessible
      distribution system commonly used for similar changes, and ensure
      reasonable availability of it via one such publication for as long
-     as you use the hereby granted rights, but no less than 30 days.
+     as you use the rights granted in section 1, but no less than 30
+     days.
 
   3. Do not make any legal claim against anyone for infringing any
      patent claim they would infringe by using this software alone,
