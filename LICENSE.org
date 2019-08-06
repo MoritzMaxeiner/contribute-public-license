@@ -1,4 +1,7 @@
-* The Contribution Public License 1.0 (Draft)
+#+title: The Contribution Public License
+#+subtitle: Version 1 (Draft), {{{time(%Y-%m-%d)}}}
+#+author:
+#+options: toc:nil
 
 *Contributor Notice:* =Licensor Name=
 
