@@ -7,11 +7,20 @@
 
 *Source Notice:* =Primary location of source code=
 
-You may do everything with this software that would otherwise
-infringe either any contributors' copyright in it, any patent claim
-any contributor can license that covers this software as of that
-contributor's latest contribution, or both, in exchange for your
-promise to fulfill all of the following obligations:
+* Grants
+
+Everyone is permitted to copy and distribute verbatim copies of this license.
+
+In exchange for your promise to fulfill all of the obligations listed in section [[#obligations]] you may do everything with this software that would otherwise infringe either any contributors' copyright in it, any patent claim any contributor can license that covers this software as of that contributor's latest contribution, or both. Specifically:
+
+- You are granted a perpetual, universal, non-exclusive, no-charge, royalty-free, irrevocable (except in the case of breaching the obligations listed in section [[#obligations]]) copyright license without scope limitations.
+
+- You are granted a perpetual, universal, non-exclusive, no-charge, royalty-free, irrevocable (except in the case of breaching the obligations listed in section [[#obligations]]) patent license for all patent claims covering contributions as embodied in this software and licensable by respective contributors without other scope limitations.
+
+* Obligations
+:PROPERTIES:
+:CUSTOM_ID: obligations
+:END:
 
 1. Ensure everyone who receives a copy of this software from you,
    in any form, also receives the text of this license and the
@@ -28,22 +37,10 @@ promise to fulfill all of the following obligations:
    accusing this software, with or without changes, alone or as
    part of a larger application.
 
-#+begin_quote
-You are granted a perpetual, universal, non-exclusive, no-charge, royalty-free, irrevocable (except in the case of breaching the above obligations) copyright license without scope limitations.
-#+end_quote
+* Disclaimer of Warranty
 
-#+begin_quote
-You are granted a perpetual, universal, non-exclusive, no-charge, royalty-free, irrevocable (except in the case of breaching the above obligations) patent license for all patent claims covering contributions as embodied in this software and licensable by respective contributors without other scope limitations.
-#+end_quote
-
-#+begin_quote
 There is no warranty for this software, to the extent permitted by applicable law. Except when otherwise stated in writing the copyright holders and/or other parties provide this software "as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of this sofware is with you. Should this software prove defective, you assume the cost of all necessary servicing, repair or correction.
-#+end_quote
 
-#+begin_quote
+* Limitation of Liability
+
 In no event, unless required by applicable law or agreed to in writing, will any copyright holder, or any other party who makes changes to and/or distributes this software as permitted above, be liable to you for damages, including any general, special, incidental, or consequential damages arising out of the use or inability to use this software (including but not limited to loss of data or data being rendered inaccurate or losses sustained by you or third parties or a failure of this software to operate with any other software, hardware, or wetware), even if such holder or other party has been advised of the possibility of such damages.
-#+end_quote
-
-#+begin_quote
-Everyone is permitted to copy and distribute verbatim copies of this license.
-#+end_quote
