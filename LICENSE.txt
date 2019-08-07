@@ -1,7 +1,7 @@
-						 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-						  THE CONTRIBUTION PUBLIC LICENSE
-							Version 1 (Draft), 2019-08-07
-						 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                   THE CONTRIBUTION PUBLIC LICENSE
+                   Version 1 (Draft), 2019-08-07
+                  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 *Contributor Notice:* `Licensor Name'
