@@ -45,7 +45,7 @@ license.
      publish it in its original form through a freely accessible
      distribution system commonly used for similar changes, and ensure
      reasonable availability of it via one such publication for as long
-     as you use the rights granted in section 1, but no less than 30
+     as you use the rights granted in section 1, but no less than 180
      days.
 
   3. Do not make any legal claim against anyone for infringing any
