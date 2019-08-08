@@ -1,5 +1,5 @@
-* The Contribution Public License
+* Libre Source License
 
-The CPL is a public =LICENSE= for open software that requires users who make changes to your software to share their changes back with the community.
+The LSL is a public =LICENSE= for open software that requires users who make changes to your software to share their changes back with the community.
 
-The CPL is based on [[https://github.com/berneout/patches-back-public-license][Patches Back]].
+The LSL is based on [[https://github.com/berneout/patches-back-public-license][Patches Back]].

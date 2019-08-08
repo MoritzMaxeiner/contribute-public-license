@@ -1,4 +1,4 @@
-#+title: The Contribution Public License
+#+title: Libre Source License
 #+subtitle: Version 1 (Draft), {{{time(%Y-%m-%d)}}}
 #+author:
 #+options: toc:nil
