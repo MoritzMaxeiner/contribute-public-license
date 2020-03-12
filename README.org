@@ -4,4 +4,4 @@ The LSL was a public =LICENSE= for open software that was intended to require us
 
 The LSL was based on [[https://github.com/berneout/patches-back-public-license][Patches Back]].
 
-~Since I last worked on this license I've changed my mind on its realistic use versus potential drawbacks and do not intend to continue my work on it.~
+~Since I last worked on this license I've changed my mind on its realistic use versus potential drawbacks. I do not intend to continue working on it.~
