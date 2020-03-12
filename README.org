@@ -1,5 +1,7 @@
 * Libre Source License
 
-The LSL is a public =LICENSE= for open software that requires users who make changes to your software to share their changes back with the community.
+The LSL was a public =LICENSE= for open software that was intended to require users who make changes to your software to share their changes back with the community.
 
-The LSL is based on [[https://github.com/berneout/patches-back-public-license][Patches Back]].
+The LSL was based on [[https://github.com/berneout/patches-back-public-license][Patches Back]].
+
+~Since I last worked on this license I've changed my mind on its realistic use versus potential drawbacks and do not intend to continue my work on it.~
